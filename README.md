@@ -34,7 +34,7 @@ une application qui demande en bouclé à l'utilisateur si veut afficher, créer
 
 
 ```
- $ git clone git@github.com:mirndraswwwwwwwwww.git
+ $ git clone git@github.com:mirindras/MVC.git
 puis 
 $ bundle install
 et enfin 
